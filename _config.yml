@@ -1,0 +1,12 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+title: Rooh Madhani - Privacy Policy
+email: your-email@example.com
+description: >- 
+  Privacy Policy for Rooh Madhani LLC
+
+markdown: kramdown
+exclude: ["README.md"]
